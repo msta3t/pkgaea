@@ -1,0 +1,4 @@
+*.arcpkg
+files/
+.arctemp/
+package/

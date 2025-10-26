@@ -1,2 +1,2 @@
 # pkgaea
-Create .arcpkg from songs and packs
+packs arcaea songs into arcpkg 

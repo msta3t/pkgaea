@@ -1,0 +1,4052 @@
+{
+  "abstrusedilemma": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.9", 
+      "2": "11.3"
+    }, 
+    "title": "Abstruse Dilemma"
+  }, 
+  "acheron": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.7"
+    }, 
+    "title": "Acheron"
+  }, 
+  "aegleseeker": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "9.1", 
+      "2": "11.2"
+    }, 
+    "title": "Aegleseeker"
+  }, 
+  "aethercrest": {
+    "difficulties": {
+      "0": "6.0", 
+      "1": "8.9", 
+      "2": "10.6", 
+      "4": "11.5"
+    }, 
+    "title": "Aether Crest: Astral"
+  }, 
+  "aidrew": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Ai Drew"
+  }, 
+  "aiueoon": {
+    "difficulties": {
+      "0": "3.5",
+      "1": "6.5",
+      "2": "9.4"
+    }, 
+    "title": "AI[UE]OON"
+  }, 
+  "akinokagerou": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "Haze of Autumn"
+  }, 
+  "alephzero": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.8", 
+      "2": "10.5"
+    }, 
+    "title": "Aleph-0"
+  }, 
+  "alexandrite": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.0"
+    }, 
+    "title": "Alexandrite"
+  }, 
+  "alicealamode": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.2"
+    }, 
+    "title": "Alice \u00e0 la mode"
+  }, 
+  "alicessuitcase": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "9.1"
+    }, 
+    "title": "Alice's Suitcase"
+  }, 
+  "aloneandlorn": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.6"
+    }, 
+    "title": "Alone & Lorn"
+  }, 
+  "altair": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.5"
+    }, 
+    "title": "Altair (feat. *spiLa*)"
+  }, 
+  "altale": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "9.8", 
+      "3": "10.0"
+    }, 
+    "title": "Altale"
+  }, 
+  "alterale": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.7"
+    }, 
+    "title": "AlterAle"
+  }, 
+  "alterego": {
+    "difficulties": {
+      "0": "6.5", 
+      "1": "9.2", 
+      "2": "10.5", 
+      "4": "11.3"
+    }, 
+    "title": "ALTER EGO"
+  }, 
+  "altergate": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.7", 
+      "2": "10.7"
+    }, 
+    "title": "AlterGate"
+  }, 
+  "amazingmightyyyy": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.7"
+    }, 
+    "title": "AMAZING MIGHTYYYY!!!!"
+  }, 
+  "amekagura": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.9"
+    }, 
+    "title": "Amekagura"
+  }, 
+  "amygdata": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.7"
+    }, 
+    "title": "amygdata"
+  }, 
+  "andorxor": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9", 
+      "4": "10.8"
+    }, 
+    "title": "ANDORXOR"
+  }, 
+  "andrevivemelody": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.5", 
+      "2": "10.9"
+    }, 
+    "title": "And Revive The Melody"
+  }, 
+  "anokumene": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.2", 
+      "3": "9.9"
+    }, 
+    "title": "An\u00f6kumene"
+  }, 
+  "antagonism": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Antagonism"
+  }, 
+  "antithese": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.8", 
+      "3": "9.6"
+    }, 
+    "title": "Antithese"
+  }, 
+  "aprilshowers": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.5", 
+      "2": "8.6"
+    }, 
+    "title": "April showers"
+  }, 
+  "arcahv": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Arcahv"
+  }, 
+  "arcanaeden": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.7", 
+      "2": "10.5", 
+      "3": "11.6"
+    }, 
+    "title": "Arcana Eden"
+  }, 
+  "arghena": {
+    "difficulties": {
+      "0": "7.5", 
+      "1": "9.6", 
+      "2": "11.3"
+    }, 
+    "title": "Arghena"
+  }, 
+  "ascent": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.8"
+    }, 
+    "title": "Ascent"
+  }, 
+  "ashenboundary": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Ashen 6oundary"
+  }, 
+  "astralexe": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.5"
+    }, 
+    "title": "astral.exe"
+  }, 
+  "astralquant": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.1", 
+      "2": "10.6"
+    }, 
+    "title": "Astral Quantization"
+  }, 
+  "astraltale": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.6"
+    }, 
+    "title": "Astral tale"
+  }, 
+  "astrawalkthrough": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Astra walkthrough"
+  }, 
+  "aterlbus": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.2"
+    }, 
+    "title": "\u03b1terl\u03b2us"
+  }, 
+  "attraqtia": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "8.3", 
+      "2": "10.6"
+    }, 
+    "title": "AttraqtiA"
+  }, 
+  "aurgelmir": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.5", 
+      "2": "10.5"
+    }, 
+    "title": "Aurgelmir"
+  }, 
+  "auxesia": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "Auxesia"
+  }, 
+  "avantraze": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.6"
+    }, 
+    "title": "Avant Raze"
+  }, 
+  "avril": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.3"
+    }, 
+    "title": "\u00c4vril -Flicka i krans-"
+  }, 
+  "awakeninruins": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.7"
+    }, 
+    "title": "Awaken In Ruins"
+  }, 
+  "axiumcrisis": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.5", 
+      "2": "10.6"
+    }, 
+    "title": "Axium Crisis"
+  }, 
+  "babaroque": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "8.5"
+    }, 
+    "title": "Babaroque"
+  }, 
+  "backtobasics": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.7", 
+      "2": "10.6"
+    }, 
+    "title": "Back to Basics"
+  }, 
+  "badtek": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "BADTEK"
+  }, 
+  "bassline": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "Can I Friend You on Bassbook? Lol"
+  }, 
+  "battlenoone": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "BATTLE NO.1"
+  }, 
+  "bbkkbkk": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "B.B.K.K.B.K.K."
+  }, 
+  "beautifuldreamer": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Beautiful Dreamer"
+  }, 
+  "besideyou": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.7"
+    }, 
+    "title": "Beside You"
+  }, 
+  "bethere": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.4"
+    }, 
+    "title": "Be There"
+  }, 
+  "blacklotus": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "Black Lotus"
+  }, 
+  "blackmind": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.0", 
+      "2": "10.8"
+    }, 
+    "title": "Black MInD"
+  }, 
+  "blackmirror": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.6", 
+      "4": "9.7"
+    }, 
+    "title": "Black Mirror on the Wall"
+  }, 
+  "blackterritory": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "Black Territory"
+  }, 
+  "blaster": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.3"
+    }, 
+    "title": "Blaster"
+  }, 
+  "blazingair": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.9", 
+      "4": "10.1"
+    }, 
+    "title": "BlazinG AIR"
+  }, 
+  "blockedlibrary": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "Blocked Library"
+  }, 
+  "blossoms": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "4.0", 
+      "2": "7.0"
+    }, 
+    "title": "Blossoms"
+  }, 
+  "blrink": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.8", 
+      "2": "9.7"
+    }, 
+    "title": "BLRINK"
+  }, 
+  "bluecomet": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "5.0", 
+      "2": "8.2"
+    }, 
+    "title": "blue comet"
+  }, 
+  "bluerose": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "6.0", 
+      "2": "9.1"
+    }, 
+    "title": "Blue Rose"
+  }, 
+  "blythe": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.4", 
+      "4": "10.5"
+    }, 
+    "title": "BlythE"
+  }, 
+  "bookmaker": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "6.5", 
+      "2": "8.3", 
+      "3": "10.0"
+    }, 
+    "title": "Bookmaker (2D Version)"
+  }, 
+  "brandnewworld": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "4.0", 
+      "2": "7.8"
+    }, 
+    "title": "Brand new world"
+  }, 
+  "breachoffaith": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.4", 
+      "2": "10.3", 
+      "3": "10.9"
+    }, 
+    "title": "Breach of Faith"
+  }, 
+  "breakbreak": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.8", 
+      "4": "10.3"
+    }, 
+    "title": "BREaK! BREaK! BREaK!"
+  }, 
+  "buchigireberserker": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.6", 
+      "2": "10.8"
+    }, 
+    "title": "BUCHiGiRE Berserker"
+  }, 
+  "bulletwaiting": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "4.5", 
+      "2": "8.1"
+    }, 
+    "title": "Bullet Waiting for Me (James Landino remix)"
+  }, 
+  "callimakarma": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "Callima Karma"
+  }, 
+  "callmyname": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "8.7"
+    }, 
+    "title": "Call My Name feat. Yukacco"
+  }, 
+  "capella": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.2"
+    }, 
+    "title": "Capella"
+  }, 
+  "carminescythe": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.6"
+    }, 
+    "title": "carmine:scythe"
+  }, 
+  "chaos": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "7.5", 
+      "2": "10.9"
+    }, 
+    "title": "CHAOS"
+  }, 
+  "chaosblast": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.6", 
+      "4": "10.5"
+    }, 
+    "title": "CHAOSBLAST"
+  }, 
+  "chelsea": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.9"
+    }, 
+    "title": "Chelsea"
+  }, 
+  "chromafill": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "10.0"
+    }, 
+    "title": "Chromafill"
+  }, 
+  "chronicle": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.9", 
+      "2": "10.5"
+    }, 
+    "title": "Chronicle"
+  }, 
+  "chronostasis": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "8.9"
+    }, 
+    "title": "Chronostasis"
+  }, 
+  "climax": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.4"
+    }, 
+    "title": "Climax"
+  }, 
+  "clotho": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "7.8", 
+      "4": "8.8"
+    }, 
+    "title": "Clotho and the stargazer"
+  }, 
+  "coastalhighway": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.1"
+    }, 
+    "title": "Coastal Highway"
+  }, 
+  "cocorocosmetic": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.2"
+    }, 
+    "title": "cocoro*cosmetic"
+  }, 
+  "conflict": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.2"
+    }, 
+    "title": "conflict"
+  }, 
+  "corpssansorganes": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.6"
+    }, 
+    "title": "corps-sans-organes"
+  }, 
+  "corruption": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Corruption"
+  }, 
+  "cosmica": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "8.8"
+    }, 
+    "title": "Cosmica"
+  }, 
+  "cosmopop": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.8"
+    }, 
+    "title": "Cosmo Pop Funclub"
+  }, 
+  "crimsonquartz": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.8", 
+      "4": "9.8"
+    }, 
+    "title": "Crimson Quartz"
+  }, 
+  "crimsonthrone": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "8.0", 
+      "2": "10.6"
+    }, 
+    "title": "Crimson Throne"
+  }, 
+  "crossover": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "CROSS\u2020OVER"
+  }, 
+  "crosssoul": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "CROSS\u2020SOUL"
+  }, 
+  "crystalgravity": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Crystal Gravity"
+  }, 
+  "cyaegha": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.4", 
+      "2": "10.7"
+    }, 
+    "title": "Cyaegha"
+  }, 
+  "cyanine": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.6"
+    }, 
+    "title": "cyanine"
+  }, 
+  "cyberneciacatharsis": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.5", 
+      "3": "9.8"
+    }, 
+    "title": "Cybernecia Catharsis"
+  }, 
+  "cycles": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.8"
+    }, 
+    "title": "CYCLES"
+  }, 
+  "daat": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.4", 
+      "2": "10.9"
+    }, 
+    "title": "DA'AT -The First Seeker of Souls-"
+  }, 
+  "dandelion": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.5"
+    }, 
+    "title": "Dandelion"
+  }, 
+  "dantalion": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.2", 
+      "2": "10.8"
+    }, 
+    "title": "Dantalion"
+  }, 
+  "darakunosono": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "7.0", 
+      "2": "9.5"
+    }, 
+    "title": "Illegal Paradise"
+  }, 
+  "dataerror": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.5"
+    }, 
+    "title": "DataErr0r"
+  }, 
+  "dazzlehop": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "Dazzle hop"
+  }, 
+  "ddd": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.5"
+    }, 
+    "title": "DDD"
+  }, 
+  "deathbyglamour": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "7.8", 
+      "4": "9.4"
+    }, 
+    "title": "Death By Glamour"
+  }, 
+  "defection": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Defection"
+  }, 
+  "dematerialized": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "4.5", 
+      "2": "7.5", 
+      "4": "8.3"
+    }, 
+    "title": "Dematerialized"
+  }, 
+  "dement": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "7.8", 
+      "3": "9.9"
+    }, 
+    "title": "Dement ~after legend~"
+  }, 
+  "designant": {
+    "difficulties": {
+      "0": "7.5", 
+      "1": "9.6", 
+      "2": "10.9", 
+      "3": "11.9"
+    }, 
+    "title": "Designant."
+  }, 
+  "desive": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.0", 
+      "2": "9.9", 
+      "4": "10.8"
+    }, 
+    "title": "D\u00e9sive"
+  }, 
+  "devillicsphere": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Devillic Sphere"
+  }, 
+  "dialnote": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.8"
+    }, 
+    "title": "Dialnote"
+  }, 
+  "diesirae": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.5", 
+      "4": "10.6"
+    }, 
+    "title": "Dies irae"
+  }, 
+  "diode": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.1"
+    }, 
+    "title": "Diode"
+  }, 
+  "disintegration": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "8.3", 
+      "4": "9.8"
+    }, 
+    "title": "disintegration"
+  }, 
+  "distortedfate": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.6", 
+      "4": "10.8"
+    }, 
+    "title": "Distorted Fate"
+  }, 
+  "distortionhuman": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.9"
+    }, 
+    "title": "Distortion Human"
+  }, 
+  "divinelight": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.8"
+    }, 
+    "title": "Divine Light of Myriad"
+  }, 
+  "dontdie": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.4", 
+      "4": "10.1"
+    }, 
+    "title": "Don't Die"
+  }, 
+  "dontfightmusic": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.3", 
+      "4": "10.7"
+    }, 
+    "title": "Don't Fight The Music"
+  }, 
+  "dottodot": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.3"
+    }, 
+    "title": "Dot to Dot feat. shully"
+  }, 
+  "dreadnought": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "Dreadnought"
+  }, 
+  "dreamgoeson": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "5.0", 
+      "2": "7.8"
+    }, 
+    "title": "Dream goes on"
+  }, 
+  "dreaminattraction": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "Dreamin' Attraction!!"
+  }, 
+  "drg": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "DRG"
+  }, 
+  "dropdead": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "9.5", 
+      "2": "9.1", 
+      "3": "10.5"
+    }, 
+    "title": "dropdead"
+  }, 
+  "dualdependency": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.5", 
+      "4": "10.4"
+    }, 
+    "title": "Dual Dependency"
+  }, 
+  "dualdoom": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.9", 
+      "4": "10.3"
+    }, 
+    "title": "Dual Doom Deathmatch"
+  }, 
+  "dullblade": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.0", 
+      "2": "10.5"
+    }, 
+    "title": "Dull Blade"
+  }, 
+  "dxfullmetal": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.7"
+    }, 
+    "title": "DX Choseinou Full Metal Shojo"
+  }, 
+  "dynitikos": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.5"
+    }, 
+    "title": "Dynitik\u00f3s"
+  }, 
+  "eccentrictale": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.5", 
+      "2": "8.4"
+    }, 
+    "title": "Eccentric Tale"
+  }, 
+  "edenwacca": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.2", 
+      "2": "10.5"
+    }, 
+    "title": "eden"
+  }, 
+  "egoeimi": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.6", 
+      "2": "10.5"
+    }, 
+    "title": "Ego Eimi"
+  }, 
+  "eightem": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.5", 
+      "4": "10.3"
+    }, 
+    "title": "8-EM"
+  }, 
+  "einherjar": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.8", 
+      "3": "10.9"
+    }, 
+    "title": "Einherjar Joker"
+  }, 
+  "empireofwinter": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.1"
+    }, 
+    "title": "Empire of Winter"
+  }, 
+  "enchantedlove": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "4.5", 
+      "2": "8.6"
+    }, 
+    "title": "enchanted love"
+  }, 
+  "endmoonlight": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "9.5"
+    }, 
+    "title": "End of The Moonlight"
+  }, 
+  "energysynergymatrix": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.6", 
+      "3": "10.3"
+    }, 
+    "title": "ENERGY SYNERGY MATRIX"
+  }, 
+  "epicurus": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "7.5", 
+      "4": "8.8"
+    }, 
+    "title": "Hidden Rainbows of Epicurus"
+  }, 
+  "epitaxy": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.6", 
+      "4": "9.6"
+    }, 
+    "title": "epitaxy"
+  }, 
+  "equilibrium": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Equilibrium"
+  }, 
+  "espebranch": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "9.6"
+    }, 
+    "title": "LunarOrbit -believe in the Espebranch road-"
+  }, 
+  "essenceoftwilight": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.1"
+    }, 
+    "title": "Essence of Twilight"
+  }, 
+  "eternitybreak": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.6", 
+      "4": "10.4"
+    }, 
+    "title": "Eternity Break"
+  }, 
+  "etherstrike": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.3", 
+      "2": "10.3"
+    }, 
+    "title": "Ether Strike"
+  }, 
+  "eveninginscarlet": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.5"
+    }, 
+    "title": "Evening in Scarlet"
+  }, 
+  "evoltex": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "7.0", 
+      "2": "8.9"
+    }, 
+    "title": "Evoltex (poppi'n mix)"
+  }, 
+  "extradimensional": {
+    "difficulties": {
+      "0": "6.5", 
+      "1": "8.8", 
+      "2": "10.6", 
+      "4": "11.3"
+    }, 
+    "title": "Extradimensional Cosmic Phenomenon"
+  }, 
+  "factorder": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.6", 
+      "4": "9.6"
+    }, 
+    "title": "Factorder"
+  }, 
+  "faintlight": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.1"
+    }, 
+    "title": "Faint Light (Arcaea Edit)"
+  }, 
+  "fairytale": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "3.5", 
+      "2": "7.0", 
+      "3": "9.5"
+    }, 
+    "title": "Fairytale"
+  }, 
+  "fallensquare": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.7"
+    }, 
+    "title": "Fallensquare"
+  }, 
+  "fantasy": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "FANTA5Y"
+  }, 
+  "farawaylight": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "Far Away Light"
+  }, 
+  "feelssoright": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "Feels So Right feat. Renko"
+  }, 
+  "felis": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.4"
+    }, 
+    "title": "Felis"
+  }, 
+  "felys": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "felys final remix"
+  }, 
+  "filament": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.7"
+    }, 
+    "title": "Filament"
+  }, 
+  "finalstep": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Final Step!"
+  }, 
+  "firstsnow": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "4.5", 
+      "2": "7.8"
+    }, 
+    "title": "First Snow"
+  }, 
+  "flashback": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.9"
+    }, 
+    "title": "Flashback"
+  }, 
+  "floatingworld": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.3"
+    }, 
+    "title": "Floating World"
+  }, 
+  "fluffyflash": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "FLUFFY FLASH"
+  }, 
+  "flyburg": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.0"
+    }, 
+    "title": "Flyburg and Endroll"
+  }, 
+  "fractureray": {
+    "difficulties": {
+      "0": "6.0", 
+      "1": "9.5", 
+      "2": "11.1"
+    }, 
+    "title": "Fracture Ray"
+  }, 
+  "freefall": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "8.6", 
+      "3": "9.8"
+    }, 
+    "title": "FREEF4LL"
+  }, 
+  "freemyself": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.0"
+    }, 
+    "title": "Free Myself"
+  }, 
+  "furetemitai": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.4", 
+      "4": "9.4"
+    }, 
+    "title": "FURETE-MITAI"
+  }, 
+  "galacticlove": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.0"
+    }, 
+    "title": "Galactic Love"
+  }, 
+  "galaxyfriends": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "9.9"
+    }, 
+    "title": "Galaxy Friends"
+  }, 
+  "garakuta": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "6.5", 
+      "2": "10.4"
+    }, 
+    "title": "Garakuta Doll Play"
+  }, 
+  "gekka": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "8.6"
+    }, 
+    "title": "Gekka (Short Version)"
+  }, 
+  "genesis": {
+    "difficulties": {
+      "0": "2.0",
+      "1": "5.5",
+      "2": "8.2"
+    }, 
+    "title": "Genesis"
+  }, 
+  "genesischunithm": {
+    "difficulties": {
+      "0": "4.0",
+      "1": "7.0",
+      "2": "9.8"
+    }, 
+    "title": "Genesis"
+  }, 
+  "gengaozo": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "8.1", 
+      "2": "10.1"
+    }, 
+    "title": "G e n g a o z o"
+  }, 
+  "genocider": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.9", 
+      "2": "10.8"
+    }, 
+    "title": "GENOCIDER"
+  }, 
+  "gensounosatellite": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.7", 
+      "4": "10.1"
+    }, 
+    "title": "Gensou no Satellite"
+  }, 
+  "gimmedablood": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "10.5"
+    }, 
+    "title": "GIMME DA BLOOD"
+  }, 
+  "gimmick": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "GIMMICK"
+  }, 
+  "givemeanightmare": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "5.5", 
+      "2": "8.9"
+    }, 
+    "title": "Give Me a Nightmare"
+  }, 
+  "gloryroad": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "10.5"
+    }, 
+    "title": "GLORY\uff1aROAD"
+  }, 
+  "glow": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.3"
+    }, 
+    "title": "Glow"
+  }, 
+  "goldenslaughterer": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "goldenslaughterer"
+  }, 
+  "goodbyemerry": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.6"
+    }, 
+    "title": "Good bye, Merry-Go-Round."
+  }, 
+  "goodtek": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "9.3", 
+      "3": "9.8"
+    }, 
+    "title": "GOODTEK (Arcaea Edit)"
+  }, 
+  "gothiveofra": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Got hive of Ra"
+  }, 
+  "gou": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.5", 
+      "2": "10.9"
+    }, 
+    "title": "Misdeed -la bont\u00e9 de Dieu et l'origine du mal-"
+  }, 
+  "grievouslady": {
+    "difficulties": {
+      "0": "6.5", 
+      "1": "9.3", 
+      "2": "11.1"
+    }, 
+    "title": "Grievous Lady"
+  }, 
+  "grimheart": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "8.7"
+    }, 
+    "title": "Grimheart"
+  }, 
+  "guardina": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "8.0", 
+      "2": "10.4"
+    }, 
+    "title": "\u03b3uar\u03b4ina"
+  }, 
+  "hailstone": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "Hailstone"
+  }, 
+  "halcyon": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.2", 
+      "2": "10.5"
+    }, 
+    "title": "Halcyon"
+  }, 
+  "hallofmirrors": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "8.2"
+    }, 
+    "title": "Hall of Mirrors"
+  }, 
+  "harutopia": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "4.5", 
+      "2": "8.5"
+    }, 
+    "title": "Harutopia ~Utopia of Spring~"
+  }, 
+  "headbonkache": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "Head BONK ache"
+  }, 
+  "hearditsaid": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "8.1"
+    }, 
+    "title": "I've heard it said"
+  }, 
+  "heartache": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "4.5", 
+      "2": "7.5", 
+      "4": "8.7"
+    }, 
+    "title": "Heartache"
+  }, 
+  "heartjackin": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "9.7"
+    }, 
+    "title": "Heart Jackin'"
+  }, 
+  "heavenlycaress": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "Heavenly caress"
+  }, 
+  "heavensdoor": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.9", 
+      "3": "10.8"
+    }, 
+    "title": "Heavensdoor"
+  }, 
+  "hellohell": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "7.5", 
+      "4": "9.3"
+    }, 
+    "title": "HELLOHELL"
+  }, 
+  "hiirogekka": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "10.3"
+    }, 
+    "title": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)"
+  }, 
+  "hikari": {
+    "difficulties": {
+      "0": "2.5",
+      "1": "6.0",
+      "2": "8.1"
+    }, 
+    "title": "Hikari"
+  }, 
+  "hivemind": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "8.6", 
+      "2": "10.0"
+    }, 
+    "title": "HIVEMIND"
+  }, 
+  "hotarubinoyuki": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "Hotarubi no Yuki"
+  }, 
+  "hybris": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "Hybris (The one who shattered)"
+  }, 
+  "hypervision": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "HYPER VISION"
+  }, 
+  "hypnotize": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "8.9", 
+      "4": "9.9"
+    }, 
+    "title": "Hypnotize"
+  }, 
+  "ichirin": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "\u3007\u3001"
+  }, 
+  "iconoclast": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.1"
+    }, 
+    "title": "Iconoclast"
+  }, 
+  "ifi": {
+    "difficulties": {
+      "0": "5.5",
+      "1": "9.2",
+      "2": "11.1"
+    }, 
+    "title": "#1f1e33"
+  }, 
+  "ignition": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "9.8"
+    }, 
+    "title": "Ignition"
+  }, 
+  "ignotus": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.3", 
+      "3": "9.9"
+    }, 
+    "title": "Ignotus"
+  }, 
+  "ii": {
+    "difficulties": {
+      "0": "5.0",
+      "1": "8.9",
+      "2": "10.8"
+    }, 
+    "title": " \u035f\u035d\u035e\u2161\u0301\u0315 "
+  }, 
+  "ikazuchi": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "10.3"
+    }, 
+    "title": "Ikazuchi"
+  }, 
+  "impact": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.8", 
+      "2": "9.6", 
+      "3": "10.4"
+    }, 
+    "title": "IMPACT"
+  }, 
+  "impurebird": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.5", 
+      "2": "9.4"
+    }, 
+    "title": "Impure Bird"
+  }, 
+  "incompleteone": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "8.8", 
+      "4": "9.9"
+    }, 
+    "title": "incomplete the one"
+  }, 
+  "infinitestrife": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.9", 
+      "3": "10.9"
+    }, 
+    "title": "Infinite Strife,"
+  }, 
+  "infinity": {
+    "difficulties": {
+      "0": "4.5",
+      "1": "7.8",
+      "2": "10.6"
+    }, 
+    "title": "[X]"
+  }, 
+  "infinityheaven": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "5.5", 
+      "2": "7.8", 
+      "3": "9.6"
+    }, 
+    "title": "Infinity Heaven"
+  }, 
+  "init": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "init()"
+  }, 
+  "inkarusi": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "4.0", 
+      "2": "7.8", 
+      "3": "9.4"
+    }, 
+    "title": "inkar-usi"
+  }, 
+  "innocence": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "8.5", 
+      "4": "9.7"
+    }, 
+    "title": "Innocence"
+  }, 
+  "internetoverdose": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "8.4"
+    }, 
+    "title": "INTERNET OVERDOSE"
+  }, 
+  "internetyamero": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "INTERNET YAMERO"
+  }, 
+  "invain": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "In Vain"
+  }, 
+  "invertedworld": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.5", 
+      "4": "10.7"
+    }, 
+    "title": "Inverted World"
+  }, 
+  "ionostream": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "8.7", 
+      "4": "9.7"
+    }, 
+    "title": "IONOSTREAM"
+  }, 
+  "iwantyou": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "8.3", 
+      "4": "9.4"
+    }, 
+    "title": "I want You"
+  }, 
+  "izana": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.3", 
+      "2": "10.3"
+    }, 
+    "title": "IZANA"
+  }, 
+  "jingle": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "7.8", 
+      "4": "9.5"
+    }, 
+    "title": "Jingle"
+  }, 
+  "journey": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.1"
+    }, 
+    "title": "Journey"
+  }, 
+  "judgement": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.6", 
+      "2": "10.5"
+    }, 
+    "title": "Judgement"
+  }, 
+  "jump": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.0", 
+      "2": "9.0"
+    }, 
+    "title": "Jump"
+  }, 
+  "kanagawa": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "5.5", 
+      "2": "9.0", 
+      "3": "9.8"
+    }, 
+    "title": "Kanagawa Cyber Culvert"
+  }, 
+  "kissinglucifer": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.4"
+    }, 
+    "title": "Kissing Lucifer"
+  }, 
+  "kokoro": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "5.0", 
+      "2": "9.6"
+    }, 
+    "title": "Heart"
+  }, 
+  "kyogenkigo": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "False Embellishment"
+  }, 
+  "kyorenromance": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.7"
+    }, 
+    "title": "KYOREN ROMANCE"
+  }, 
+  "ladymadestar": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.4", 
+      "4": "9.2"
+    }, 
+    "title": "Ladymade Star"
+  }, 
+  "lamentrain": {
+    "difficulties": {
+      "0": "6.5", 
+      "1": "8.8", 
+      "2": "10.6", 
+      "3": "11.4"
+    }, 
+    "title": "Lament Rain"
+  }, 
+  "lamia": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.5", 
+      "2": "11.0"
+    }, 
+    "title": "LAMIA"
+  }, 
+  "lapis": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "6.0", 
+      "2": "9.4"
+    }, 
+    "title": "Lapis"
+  }, 
+  "laqryma": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.1", 
+      "3": "10.0"
+    }, 
+    "title": "La'qryma of the Wasteland"
+  }, 
+  "last": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.0", 
+      "3": "9.7"
+    }, 
+    "title": "Last"
+  }, 
+  "lastcelebration": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "10.4"
+    }, 
+    "title": "Last Celebration"
+  }, 
+  "lastendconductor": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.4", 
+      "3": "10.2"
+    }, 
+    "title": "lastendconductor"
+  }, 
+  "lasteternity": {
+    "difficulties": {
+      "3": "9.7"
+    }, 
+    "title": "Last | Eternity"
+  }, 
+  "lastgoodbye": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.2", 
+      "4": "9.7"
+    }, 
+    "title": "Last Goodbye"
+  }, 
+  "lawlesspoint": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.0"
+    }, 
+    "title": "Lawless Point"
+  }, 
+  "lazyaddiction": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "9.6"
+    }, 
+    "title": "Lazy Addiction"
+  }, 
+  "leaveallbehind": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.5", 
+      "2": "9.2"
+    }, 
+    "title": "Leave All Behind"
+  }, 
+  "lethaeus": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "Lethaeus"
+  }, 
+  "lethalvoltage": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.4"
+    }, 
+    "title": "Lethal Voltage"
+  }, 
+  "letsrock": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "Let's Rock (Arcaea mix)"
+  }, 
+  "letyoudivermx": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Let you DIVE! (nitro rmx)"
+  }, 
+  "liar": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.0"
+    }, 
+    "title": "Liar"
+  }, 
+  "libertas": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "5.5", 
+      "2": "9.2", 
+      "3": "10.5"
+    }, 
+    "title": "Libertas"
+  }, 
+  "lifeispiano": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "9.1"
+    }, 
+    "title": "Life is PIANO"
+  }, 
+  "liftoff": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "8.2", 
+      "4": "9.8"
+    }, 
+    "title": "LiftOff"
+  }, 
+  "lightmyway": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "LIVHT MY W\u0394Y"
+  }, 
+  "lightningscrew": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.5"
+    }, 
+    "title": "Lightning Screw"
+  }, 
+  "lightsofmuse": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.9"
+    }, 
+    "title": "Lights of Muse"
+  }, 
+  "lilly": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.4", 
+      "2": "9.9", 
+      "4": "10.8"
+    }, 
+    "title": "Lilly"
+  }, 
+  "linearaccelerator": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Linear Accelerator"
+  }, 
+  "livefastdieyoung": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.5", 
+      "2": "10.6"
+    }, 
+    "title": "Live Fast Die Young"
+  }, 
+  "logos": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.2"
+    }, 
+    "title": "Logos"
+  }, 
+  "loschen": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "10.2"
+    }, 
+    "title": "L\u00f6schen"
+  }, 
+  "lostcivilization": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.2", 
+      "3": "9.8"
+    }, 
+    "title": "Lost Civilization"
+  }, 
+  "lostdesire": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "Lost Desire"
+  }, 
+  "lostemotion": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.3"
+    }, 
+    "title": "Lost Emotion feat. nomico"
+  }, 
+  "lostintheabyss": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "Lost in the Abyss"
+  }, 
+  "lovelessdress": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "Loveless Dress"
+  }, 
+  "lucidtraveler": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.9", 
+      "2": "10.5"
+    }, 
+    "title": "Lucid Traveler"
+  }, 
+  "lucifer": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "5.5", 
+      "2": "8.2"
+    }, 
+    "title": "Lucifer"
+  }, 
+  "lumia": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.4", 
+      "3": "9.5"
+    }, 
+    "title": "Lumia"
+  }, 
+  "lunarossa": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.7"
+    }, 
+    "title": "Luna Rossa"
+  }, 
+  "macromod": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "Macrocosmic Modulation"
+  }, 
+  "magnolia": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.2"
+    }, 
+    "title": "Magnolia"
+  }, 
+  "mahoroba": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "MAHOROBA"
+  }, 
+  "maliciousmischance": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.2"
+    }, 
+    "title": "Malicious Mischance"
+  }, 
+  "manicjeer": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.6"
+    }, 
+    "title": "Manic Jeer"
+  }, 
+  "mantis": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "MANTIS (Arcaea Ultra-Bloodrush VIP)"
+  }, 
+  "masqueradelegion": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "10.0"
+    }, 
+    "title": "Masquerade Legion"
+  }, 
+  "matenrou": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Kanjou no Matenrou \uff5eArr.Demetori"
+  }, 
+  "maxrage": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.9"
+    }, 
+    "title": "MAXRAGE"
+  }, 
+  "mazenine": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "3.5", 
+      "2": "8.9"
+    }, 
+    "title": "Maze No.9"
+  }, 
+  "mazymetroplex": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "Mazy Metroplex"
+  }, 
+  "medusa": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "10.1"
+    }, 
+    "title": "Medusa"
+  }, 
+  "megalovania": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.5", 
+      "4": "10.5"
+    }, 
+    "title": "MEGALOVANIA"
+  }, 
+  "megalovaniarmx": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.4", 
+      "2": "9.8", 
+      "4": "10.9"
+    }, 
+    "title": "MEGALOVANIA (Camellia Remix)"
+  }, 
+  "melodyoflove": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.6"
+    }, 
+    "title": "A Wandering Melody of Love"
+  }, 
+  "memoryfactory": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.9"
+    }, 
+    "title": "memoryfactory.lzh"
+  }, 
+  "memoryforest": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "9.8"
+    }, 
+    "title": "Memory Forest"
+  }, 
+  "merlin": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "8.9", 
+      "3": "9.4"
+    }, 
+    "title": "MERLIN"
+  }, 
+  "metallicpunisher": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "10.3"
+    }, 
+    "title": "Metallic Punisher"
+  }, 
+  "metamysteria": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "7.8", 
+      "2": "10.8"
+    }, 
+    "title": "Meta-Mysteria"
+  }, 
+  "miles": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.2", 
+      "4": "9.8"
+    }, 
+    "title": "Miles"
+  }, 
+  "mirinae": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.3", 
+      "2": "10.4"
+    }, 
+    "title": "MIRINAE"
+  }, 
+  "mirzam": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.9"
+    }, 
+    "title": "Mirzam"
+  }, 
+  "modelista": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.9"
+    }, 
+    "title": "Modelista"
+  }, 
+  "monochromeprincess": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.7"
+    }, 
+    "title": "Monochrome Princess"
+  }, 
+  "moonheart": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.4", 
+      "3": "9.7"
+    }, 
+    "title": "Moonheart"
+  }, 
+  "moonlightofsandcastle": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "5.0", 
+      "2": "7.8"
+    }, 
+    "title": "Moonlight of Sand Castle"
+  }, 
+  "morningloom": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "8.8", 
+      "4": "9.8"
+    }, 
+    "title": "MORNINGLOOM"
+  }, 
+  "mu": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.7"
+    }, 
+    "title": "\u03bc"
+  }, 
+  "mukishitsu": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Redraw the Colorless World"
+  }, 
+  "mvurbd": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.6"
+    }, 
+    "title": "MVURBD"
+  }, 
+  "namelesspassion": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "Nameless Passion"
+  }, 
+  "nekonote": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.2"
+    }, 
+    "title": "Dancin' on a Cat's Paw"
+  }, 
+  "neokosmo": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.7"
+    }, 
+    "title": "n\u03ad\u03bf \u03ba\u03ccsmo"
+  }, 
+  "neowings": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.2"
+    }, 
+    "title": "NEO WINGS"
+  }, 
+  "newyorkbackraise": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.9"
+    }, 
+    "title": "New York Back Raise"
+  }, 
+  "nexttoyou": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "8.8", 
+      "3": "9.6"
+    }, 
+    "title": "next to you"
+  }, 
+  "nhelv": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.9", 
+      "3": "10.9"
+    }, 
+    "title": "Nhelv"
+  }, 
+  "nightmare": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.8", 
+      "4": "10.8"
+    }, 
+    "title": "Nightmare"
+  }, 
+  "nirvluce": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "7.0", 
+      "2": "10.2"
+    }, 
+    "title": "Nirv lucE"
+  }, 
+  "nnglooms": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.3"
+    }, 
+    "title": "99 Glooms"
+  }, 
+  "nowayback": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "8.9", 
+      "4": "10.4"
+    }, 
+    "title": "No Way Back"
+  }, 
+  "nulctrl": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.5"
+    }, 
+    "title": "NULCTRL"
+  }, 
+  "nullapophenia": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.8", 
+      "2": "10.7"
+    }, 
+    "title": "NULL APOPHENIA"
+  }, 
+  "oblivia": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "5.0", 
+      "2": "8.3", 
+      "3": "9.7"
+    }, 
+    "title": "Oblivia"
+  }, 
+  "oblivion": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "9.5", 
+      "4": "10.1"
+    }, 
+    "title": "OBLIVION"
+  }, 
+  "odysseia": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.5"
+    }, 
+    "title": "\u039f\u0394\u03a5\u03a3\u03a3\u0395\u0399\u0391"
+  }, 
+  "oldschoolsalvage": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "Old School Salvage"
+  }, 
+  "omakeno": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.5", 
+      "3": "10.3"
+    }, 
+    "title": "OMAKENO Stroke"
+  }, 
+  "omegafour": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.8", 
+      "2": "10.8"
+    }, 
+    "title": "\u03c94"
+  }, 
+  "onandon": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.5"
+    }, 
+    "title": "On And On!! feat. Jenga"
+  }, 
+  "onefr": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.2"
+    }, 
+    "title": "1F\u221a"
+  }, 
+  "onelastdrive": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.2"
+    }, 
+    "title": "One Last Drive"
+  }, 
+  "oracle": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "9.3"
+    }, 
+    "title": "Oracle"
+  }, 
+  "oshamascramble": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "10.0"
+    }, 
+    "title": "Oshama Scramble!"
+  }, 
+  "ouroboros": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.7"
+    }, 
+    "title": "ouroboros -twin stroke of the end-"
+  }, 
+  "ouverture": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "Ouvert\u00fcre"
+  }, 
+  "overdrive": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.1"
+    }, 
+    "title": "Kanbu de Tomatte Sugu Tokeru"
+  }, 
+  "overwhelm": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.5", 
+      "2": "10.6"
+    }, 
+    "title": "Overwhelm"
+  }, 
+  "paperwitch": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.7"
+    }, 
+    "title": "Paper Witch"
+  }, 
+  "paradise": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "4.0", 
+      "2": "7.8"
+    }, 
+    "title": "Paradise"
+  }, 
+  "partyvinyl": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.4", 
+      "3": "10.3"
+    }, 
+    "title": "Party Vinyl"
+  }, 
+  "pentiment": {
+    "difficulties": {
+      "0": "7.0", 
+      "1": "8.7", 
+      "2": "10.4", 
+      "3": "11.5"
+    }, 
+    "title": "Pentiment"
+  }, 
+  "phantasia": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "5.5", 
+      "2": "9.2"
+    }, 
+    "title": "Phantasia"
+  }, 
+  "picopicotranslation": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "6.0", 
+      "2": "9.4"
+    }, 
+    "title": "PICO-Pico-Translation!"
+  }, 
+  "placebobattler": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.3", 
+      "2": "10.4"
+    }, 
+    "title": "Placebo\u2665Battler"
+  }, 
+  "pragmatism": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.6", 
+      "2": "10.1", 
+      "3": "11.2"
+    }, 
+    "title": "PRAGMATISM"
+  }, 
+  "prayer": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.2", 
+      "4": "9.1"
+    }, 
+    "title": "Prayer"
+  }, 
+  "primevaltexture": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.0"
+    }, 
+    "title": "Primeval Texture"
+  }, 
+  "primitivelights": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.8", 
+      "2": "10.8"
+    }, 
+    "title": "PRIMITIVE LIGHTS"
+  }, 
+  "prism": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.0"
+    }, 
+    "title": "Prism"
+  }, 
+  "protoflicker": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "Protoflicker"
+  }, 
+  "pupa": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.4"
+    }, 
+    "title": "PUPA"
+  }, 
+  "purgatorium": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.4", 
+      "3": "9.6"
+    }, 
+    "title": "Purgatorium"
+  }, 
+  "purpleverse": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.6", 
+      "3": "10.6"
+    }, 
+    "title": "Purple Verse"
+  }, 
+  "qovat": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.2", 
+      "2": "10.4"
+    }, 
+    "title": "Qovat"
+  }, 
+  "qualia": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.1", 
+      "3": "9.8"
+    }, 
+    "title": "qualia -ideaesthesia-"
+  }, 
+  "quon": {
+    "difficulties": {
+      "0": "4.0",
+      "1": "6.5",
+      "2": "9.6"
+    }, 
+    "title": "Quon"
+  }, 
+  "quonwacca": {
+    "difficulties": {
+      "0": "2.5",
+      "1": "6.0",
+      "2": "8.7",
+      "3": "10.2"
+    }, 
+    "title": "Quon"
+  }, 
+  "rabbitintheblackroom": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.4"
+    }, 
+    "title": "Rabbit In The Black Room"
+  }, 
+  "rainofconflict": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "7.8", 
+      "2": "9.5", 
+      "4": "10.5"
+    }, 
+    "title": "Rain of Conflict in a Radiant Abyss"
+  }, 
+  "ravenspride": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "Raven's Pride"
+  }, 
+  "raysofremnant": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.7", 
+      "3": "10.4"
+    }, 
+    "title": "Rays of Remnant"
+  }, 
+  "reconstruction": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "8.4"
+    }, 
+    "title": "REconstruction"
+  }, 
+  "redandblue": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.4", 
+      "3": "10.2"
+    }, 
+    "title": "Red and Blue"
+  }, 
+  "redolentshape": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.2"
+    }, 
+    "title": "Redolent Shape"
+  }, 
+  "reinvent": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "8.5"
+    }, 
+    "title": "Reinvent"
+  }, 
+  "rekkaresonance": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.9", 
+      "2": "10.7"
+    }, 
+    "title": "REKKA RESONANCE"
+  }, 
+  "relentless": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "6.5", 
+      "2": "8.0"
+    }, 
+    "title": "Relentless"
+  }, 
+  "remindthesouls": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.6"
+    }, 
+    "title": "Remind the Souls (Short Version)"
+  }, 
+  "renegade": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.6", 
+      "3": "10.2"
+    }, 
+    "title": "Renegade"
+  }, 
+  "revixy": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.1"
+    }, 
+    "title": "ReviXy"
+  }, 
+  "rgb": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.8"
+    }, 
+    "title": "RGB"
+  }, 
+  "ringedgenesis": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.4", 
+      "2": "10.8"
+    }, 
+    "title": "Ringed Genesis"
+  }, 
+  "rise": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "4.0", 
+      "2": "7.8"
+    }, 
+    "title": "Rise"
+  }, 
+  "riseoftheworld": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.1", 
+      "2": "10.5"
+    }, 
+    "title": "Rise of the World"
+  }, 
+  "romancewars": {
+    "difficulties": {
+      "0": "1.0", 
+      "1": "4.0", 
+      "2": "7.8"
+    }, 
+    "title": "Romance Wars"
+  }, 
+  "rostpagegene": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.2", 
+      "2": "10.3"
+    }, 
+    "title": "ROST PAGE GENE"
+  }, 
+  "rugie": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.2"
+    }, 
+    "title": "Rugie"
+  }, 
+  "sacrifice": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "9.7"
+    }, 
+    "title": "SACRIFICE feat. ayame"
+  }, 
+  "saikyostronger": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "9.4", 
+      "2": "11.0"
+    }, 
+    "title": "SAIKYO STRONGER"
+  }, 
+  "saintorsinner": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.8"
+    }, 
+    "title": "Saint or Sinner"
+  }, 
+  "sakurafubuki": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Sakura Fubuki"
+  }, 
+  "sanskia": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "8.3"
+    }, 
+    "title": "san skia"
+  }, 
+  "satisfaction": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.5", 
+      "4": "9.5"
+    }, 
+    "title": "SATISFACTION"
+  }, 
+  "sayonarahatsukoi": {
+    "difficulties": {
+      "0": "1.5", 
+      "1": "4.5", 
+      "2": "7.0", 
+      "4": "8.5"
+    }, 
+    "title": "Sayonara Hatsukoi"
+  }, 
+  "scarletcage": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "Scarlet Cage"
+  }, 
+  "scarletlance": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "10.0"
+    }, 
+    "title": "Scarlet Lance"
+  }, 
+  "scarletlunar": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "Scarlet Lunar Empress"
+  }, 
+  "seclusion": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.6"
+    }, 
+    "title": "Seclusion"
+  }, 
+  "seethelights": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.6", 
+      "4": "9.6"
+    }, 
+    "title": "See the Lights!"
+  }, 
+  "senkyou": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "8.7"
+    }, 
+    "title": "Senkyou"
+  }, 
+  "seventhsense": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "7thSense"
+  }, 
+  "shadesoflight": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.3", 
+      "3": "9.1"
+    }, 
+    "title": "Shades of Light in a Transcendent Realm"
+  }, 
+  "sheriruth": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "7.5", 
+      "2": "10.0"
+    }, 
+    "title": "Sheriruth"
+  }, 
+  "sheriruthrmx": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.5"
+    }, 
+    "title": "Sheriruth (Laur Remix)"
+  }, 
+  "shinchoku": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "8.8", 
+      "4": "9.9"
+    }, 
+    "title": "Shinchoku Doudesuka?"
+  }, 
+  "shrink": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "shrink"
+  }, 
+  "signof": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.2"
+    }, 
+    "title": "Sign of \"10.5km\""
+  }, 
+  "silentrush": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "8.6"
+    }, 
+    "title": "Silent Rush"
+  }, 
+  "singularity": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.5", 
+      "3": "10.4"
+    }, 
+    "title": "Singularity"
+  }, 
+  "smallcloud": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "Small Cloud Sugar Candy"
+  }, 
+  "snowwhite": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "8.4", 
+      "3": "9.7"
+    }, 
+    "title": "Snow White"
+  }, 
+  "solitarydream": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.0", 
+      "2": "8.8"
+    }, 
+    "title": "Solitary Dream"
+  }, 
+  "someday": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.5"
+    }, 
+    "title": "Someday"
+  }, 
+  "soundwitch": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "SOUNDWiTCH"
+  }, 
+  "specta": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Specta"
+  }, 
+  "spidersthread": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.8"
+    }, 
+    "title": "Spider's Thread"
+  }, 
+  "spiritdauntless": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.5"
+    }, 
+    "title": "Spirit of the Dauntless"
+  }, 
+  "stager": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "STAGER (ALL STAGE CLEAR)"
+  }, 
+  "stargateextreme": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.0", 
+      "2": "9.3", 
+      "4": "9.9"
+    }, 
+    "title": "STARGATE EXTREME"
+  }, 
+  "stasis": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "10.8"
+    }, 
+    "title": "Stasis"
+  }, 
+  "straightintolights": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "9.5", 
+      "4": "10.5"
+    }, 
+    "title": "Straight into the lights"
+  }, 
+  "stratoliner": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.6"
+    }, 
+    "title": "Stratoliner"
+  }, 
+  "strongholds": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "9.2"
+    }, 
+    "title": "Strongholds"
+  }, 
+  "sulfur": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.0", 
+      "2": "9.7"
+    }, 
+    "title": "Sulfur"
+  }, 
+  "summerfireworks": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.9"
+    }, 
+    "title": "Summer Fireworks of Love"
+  }, 
+  "suomi": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "7.8", 
+      "4": "8.9"
+    }, 
+    "title": "Suomi"
+  }, 
+  "superambulance": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.3"
+    }, 
+    "title": "SUPER AMBULANCE"
+  }, 
+  "supernova": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.7"
+    }, 
+    "title": "SUPERNOVA"
+  }, 
+  "surrender": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "8.8"
+    }, 
+    "title": "Surrender"
+  }, 
+  "swansong": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.9"
+    }, 
+    "title": "Swan Song"
+  }, 
+  "syriana": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "9.9"
+    }, 
+    "title": "Syriana"
+  }, 
+  "syro": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.3"
+    }, 
+    "title": "Syro"
+  }, 
+  "syuten": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.5"
+    }, 
+    "title": "sy\u016bten"
+  }, 
+  "take": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "10.0"
+    }, 
+    "title": "Bamboo"
+  }, 
+  "tasogare": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.5", 
+      "4": "10.5"
+    }, 
+    "title": "Twilight Concerto"
+  }, 
+  "tau": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.7"
+    }, 
+    "title": "\u03c4 (tau)"
+  }, 
+  "technicolour": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "Technicolour"
+  }, 
+  "tempestissimo": {
+    "difficulties": {
+      "0": "7.0", 
+      "1": "9.5", 
+      "2": "10.7", 
+      "3": "11.7"
+    }, 
+    "title": "Tempestissimo"
+  }, 
+  "temptation": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.2", 
+      "2": "10.9"
+    }, 
+    "title": "TEmPTaTiON"
+  }, 
+  "temptationgc": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "9.8", 
+      "4": "10.5"
+    }, 
+    "title": "10pt8ion"
+  }, 
+  "teravolt": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.9", 
+      "2": "10.8"
+    }, 
+    "title": "TeraVolt"
+  }, 
+  "teriqma": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.4", 
+      "3": "9.7"
+    }, 
+    "title": "Teriqma"
+  }, 
+  "testify": {
+    "difficulties": {
+      "0": "7.8", 
+      "1": "9.4", 
+      "2": "10.9", 
+      "3": "12.0"
+    }, 
+    "title": "Testify"
+  }, 
+  "theformula": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.3"
+    }, 
+    "title": "The Formula"
+  }, 
+  "themessage": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.5", 
+      "2": "9.7"
+    }, 
+    "title": "The Message"
+  }, 
+  "thesurvivor": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.9"
+    }, 
+    "title": "The Survivor (Game Edit)"
+  }, 
+  "theultimacy": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "THE ULTIMACY"
+  }, 
+  "thirdsun": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.4", 
+      "4": "10.0"
+    }, 
+    "title": "Third Sun"
+  }, 
+  "tictactoe": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.5", 
+      "2": "8.8", 
+      "4": "9.9"
+    }, 
+    "title": "Tic! Tac! Toe!"
+  }, 
+  "tiemedowngently": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "5.5", 
+      "2": "8.3"
+    }, 
+    "title": "Tie me down gently"
+  }, 
+  "tiferet": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.3"
+    }, 
+    "title": "Tiferet"
+  }, 
+  "toaliceliddell": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.3"
+    }, 
+    "title": "To: Alice Liddell"
+  }, 
+  "tothefurthestdream": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.5", 
+      "2": "9.8"
+    }, 
+    "title": "To the Furthest Dream"
+  }, 
+  "tothemilkyway": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.9", 
+      "2": "10.4"
+    }, 
+    "title": "To the Milky Way"
+  }, 
+  "transientspace": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "7.0", 
+      "2": "9.5"
+    }, 
+    "title": "Transient Space"
+  }, 
+  "trapcrow": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "9.9"
+    }, 
+    "title": "Trap Crow"
+  }, 
+  "trappola": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "9.9", 
+      "3": "10.6"
+    }, 
+    "title": "trappola bewitching"
+  }, 
+  "trpno": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.0"
+    }, 
+    "title": "TRPNO"
+  }, 
+  "trrricksters": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.1"
+    }, 
+    "title": "Trrricksters!!"
+  }, 
+  "tsukinimurakumo": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "6.0", 
+      "2": "8.7"
+    }, 
+    "title": "Tsuki ni Murakumo, Hana ni Kaze"
+  }, 
+  "turbocharger": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.0", 
+      "2": "9.0"
+    }, 
+    "title": "Turbocharger"
+  }, 
+  "uad": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.7", 
+      "4": "9.8"
+    }, 
+    "title": "U.A.D"
+  }, 
+  "ultimatetaste": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.9"
+    }, 
+    "title": "Ultimate taste"
+  }, 
+  "ultradiaxon": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "8.5", 
+      "2": "10.3"
+    }, 
+    "title": "ultradiaxon-N3"
+  }, 
+  "undyingmacula": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.7", 
+      "2": "10.1", 
+      "4": "11.0"
+    }, 
+    "title": "Undying Macula"
+  }, 
+  "unknownlevels": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "8.1", 
+      "2": "10.6"
+    }, 
+    "title": "UNKNOWN LEVELS"
+  }, 
+  "usedtobe": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "9.2"
+    }, 
+    "title": "Used to be"
+  }, 
+  "vainspire": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "8.4", 
+      "4": "9.9"
+    }, 
+    "title": "Vainspire"
+  }, 
+  "valhallazero": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.2"
+    }, 
+    "title": "Valhalla:0"
+  }, 
+  "vandalism": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.7"
+    }, 
+    "title": "Vandalism"
+  }, 
+  "vector": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "VECTO\u042f"
+  }, 
+  "vexaria": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.0", 
+      "2": "7.0", 
+      "3": "9.0"
+    }, 
+    "title": "Vexaria"
+  }, 
+  "viciousheroism": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.0", 
+      "3": "11.2"
+    }, 
+    "title": "Vicious Heroism"
+  }, 
+  "vindication": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "6.5", 
+      "2": "9.6"
+    }, 
+    "title": "Vindication"
+  }, 
+  "violaillyria": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.5"
+    }, 
+    "title": "Viola Illyria"
+  }, 
+  "virtus": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.6", 
+      "2": "9.9", 
+      "4": "10.9"
+    }, 
+    "title": "ViRTUS"
+  }, 
+  "vividtheory": {
+    "difficulties": {
+      "0": "2.0", 
+      "1": "5.0", 
+      "2": "8.8"
+    }, 
+    "title": "Vivid Theory"
+  }, 
+  "viyella": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.0", 
+      "2": "8.7"
+    }, 
+    "title": "cry of viyella"
+  }, 
+  "viyellastears": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.3"
+    }, 
+    "title": "Viyella's Tears"
+  }, 
+  "vulcanus": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.5", 
+      "2": "10.9"
+    }, 
+    "title": "Vulc\u0101nus"
+  }, 
+  "waitfordawn": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "7.8", 
+      "2": "8.7"
+    }, 
+    "title": "WAIT FOR DAWN"
+  }, 
+  "waltzforlorelei": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "8.8", 
+      "4": "9.8"
+    }, 
+    "title": "Waltz for Lorelei"
+  }, 
+  "welcomequeen": {
+    "difficulties": {
+      "0": "5.0", 
+      "1": "8.5", 
+      "2": "10.1", 
+      "4": "10.9"
+    }, 
+    "title": "Welcome, Queen of Fiction."
+  }, 
+  "wereallgonnadie": {
+    "difficulties": {
+      "0": "5.5", 
+      "1": "8.0", 
+      "2": "10.1", 
+      "4": "10.9"
+    }, 
+    "title": "We're All Gonna Die"
+  }, 
+  "wishuponasnow": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.5", 
+      "2": "10.5"
+    }, 
+    "title": "Wish Upon a Snow"
+  }, 
+  "withu": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "with U"
+  }, 
+  "wontbackdown": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.8"
+    }, 
+    "title": "Won't Back Down"
+  }, 
+  "worldender": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.8", 
+      "2": "10.0", 
+      "3": "11.1"
+    }, 
+    "title": "World Ender"
+  }, 
+  "worldexecuteme": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "5.0", 
+      "2": "8.0"
+    }, 
+    "title": "world.execute(me);"
+  }, 
+  "worldfragments": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "7.0", 
+      "2": "9.8"
+    }, 
+    "title": "World Fragments III(radio edit)"
+  }, 
+  "worldvanquisher": {
+    "difficulties": {
+      "0": "2.5", 
+      "1": "5.5", 
+      "2": "10.7"
+    }, 
+    "title": "World Vanquisher"
+  }, 
+  "xanatos": {
+    "difficulties": {
+      "0": "4.0", 
+      "1": "7.5", 
+      "2": "10.0"
+    }, 
+    "title": "Xanatos"
+  }, 
+  "xeraphinite": {
+    "difficulties": {
+      "0": "3.0", 
+      "1": "7.5", 
+      "2": "9.8"
+    }, 
+    "title": "Xeraphinite"
+  }, 
+  "xtreme": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.8", 
+      "2": "10.5"
+    }, 
+    "title": "XTREME"
+  }, 
+  "yomibitoshirazu": {
+    "difficulties": {
+      "0": "4.5",
+      "1": "8.0",
+      "2": "9.8"
+    }, 
+    "title": "yomibito_shirazu"
+  }, 
+  "yourbestnightmare": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "8.9", 
+      "3": "10.2"
+    }, 
+    "title": "Your Best Nightmare"
+  }, 
+  "yourvoiceso": {
+    "difficulties": {
+      "0": "3.5", 
+      "1": "6.5", 
+      "2": "9.4"
+    }, 
+    "title": "Your voice so... feat. Such"
+  }, 
+  "yozakurafubuki": {
+    "difficulties": {
+      "0": "4.5", 
+      "1": "7.0", 
+      "2": "9.4"
+    }, 
+    "title": "Yosakura Fubuki"
+  }
+}

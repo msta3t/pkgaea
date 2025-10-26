@@ -1,0 +1,282 @@
+{
+  "aegleseeker": "base_light",
+  "aethercrest": "base_light",
+  "alexandrite": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "black",
+      "accent": "dynamix",
+      "singleLine": "none"
+    }
+  },
+  "alice_conflict": "base_conflict",
+  "alice_light": "base_light",
+  "alterego": "finale_conflict",
+  "altergate": "base_conflict",
+  "anima_conflict": "base_conflict",
+  "anima_light": "base_light",
+  "apophenia": "vs_conflict",
+  "arcahv": "base_light",
+  "arcanaeden": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "arcana",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "arghena": "base_conflict",
+  "aterlbus": "dynamix_conflict",
+  "auxesia": "base_light",
+  "axiumcrisis": "base_conflict",
+  "base_conflict": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "inherit",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "base_light": {
+    "skin": {
+      "side": "light",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "inherit",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "byd_conflict": "base_conflict",
+  "byd_light": "base_light",
+  "chuni-garakuta": "base_conflict",
+  "chuni-ikazuchi": "base_conflict",
+  "chuni-worldvanquisher": "base_light",
+  "chunithmnew_conflict": "base_conflict",
+  "chunithmnew_light": "base_light",
+  "chunithmthird_conflict": "base_conflict",
+  "cyaegha": "base_conflict",
+  "cytus_boss": "base_conflict",
+  "cytus_conflict": "base_conflict",
+  "cytus_light": "base_light",
+  "designant": "base_light",
+  "djmax_conflict": "base_conflict",
+  "djmax_light": "base_light",
+  "djmax_nightmare": "base_conflict",
+  "djmax_wagd": "saikyostronger",
+  "dynamix_conflict": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "black",
+      "accent": "dynamix",
+      "singleLine": "none"
+    }
+  },
+  "dynamix_light": {
+    "skin": {
+      "side": "light",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "inherit",
+      "accent": "dynamix",
+      "singleLine": "none"
+    }
+  },
+  "eclipse_conflict": "base_conflict",
+  "eclipse_light": "base_light",
+  "eden_append_conflict": "base_conflict",
+  "eden_append_light": "base_light",
+  "eden_boss": "base_light",
+  "eden_conflict": "base_conflict",
+  "eden_light": "base_light",
+  "epilogue": {
+    "skin": {
+      "side": "colorless",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "inherit",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "etherstrike": {
+    "skin": {
+      "side": "light",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "rei",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "extradimensional": "base_conflict",
+  "felis": "base_light",
+  "finale_conflict": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "finale",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "finale_light": "base_light",
+  "fractureray": "base_light",
+  "gc_buchigire": "base_conflict",
+  "gc_conflict": "base_conflict",
+  "gc_lance": "base_light",
+  "gc_light": "base_light",
+  "gc_ouroboros": "base_conflict",
+  "gou": "base_light",
+  "grievouslady": "base_conflict",
+  "hime_conflict": "base_conflict",
+  "hime_light": "base_light",
+  "lamentrain": "base_light",
+  "lamia": "base_conflict",
+  "lanota-conflict": "base_conflict",
+  "lanota-light": "base_light",
+  "lephon": "base_light",
+  "lethaeus": "mirai_conflict",
+  "macula_conflict_a": "vs_conflict",
+  "magnolia": "base_light",
+  "maimai_boss": "base_conflict",
+  "maimai_conflict": "base_conflict",
+  "maimai_light": "base_light",
+  "megalovaniarmx": "base_conflict",
+  "meta_mysteria": "base_light",
+  "mirai_awakened": "mirai_conflict",
+  "mirai_conflict": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "miraiconflict",
+      "track": "black",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "mirai_light": {
+    "skin": {
+      "side": "light",
+      "note": "inherit",
+      "particle": "mirailight",
+      "track": "inherit",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "modelista": "base_light",
+  "musedash_conflict": "base_conflict",
+  "musedash_light": "base_light",
+  "nihil": "base_conflict",
+  "nijuusei-conflict-b": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "nijuusei",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "nijuusei-light-b": "base_light",
+  "nijuusei2_conflict": "base_conflict",
+  "nijuusei2_light": "base_light",
+  "nirvluce": "base_light",
+  "observer_conflict": "base_conflict",
+  "observer_light": "base_light",
+  "omatsuri_conflict": "base_conflict",
+  "omatsuri_light": "base_light",
+  "omegafour": "base_light",
+  "ongeki_conflict": "base_conflict",
+  "ongeki_light": "base_light",
+  "pentiment": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "pentiment",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "pragmatism": "base_light",
+  "pragmatism3": "base_light",
+  "prelude_conflict": "base_conflict",
+  "prelude_light": "base_light",
+  "quon": "base_light",
+  "rei": "base_light",
+  "ringedgenesis": "base_light",
+  "rotaeno_conflict": "base_conflict",
+  "rotaeno_light": "base_light",
+  "saikyostronger": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "black",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "sheriruth": "base_conflict",
+  "shiawase": "base_light",
+  "shiawase2": "base_light",
+  "single2_conflict": "base_conflict",
+  "single2_light": "base_light",
+  "single_conflict": "base_conflict",
+  "single_light": "base_light",
+  "solitarydream": "base_light",
+  "spidersthread": "base_conflict",
+  "tanoc_conflict": "base_conflict",
+  "tanoc_light": "base_light",
+  "tanoc_red": "base_light",
+  "tempestissimo": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "tempestissimo",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "temptation": "base_light",
+  "testify": "epilogue",
+  "tiferet": "base_conflict",
+  "tonesphere-darksphere": "base_conflict",
+  "tonesphere-solarsphere": "base_light",
+  "touhou_conflict": "base_conflict",
+  "touhou_light": "base_light",
+  "undertale_conflict": "base_conflict",
+  "undertale_light": "base_light",
+  "viciousheroism3": "base_conflict",
+  "virtus": "base_light",
+  "vs_conflict": {
+    "skin": {
+      "side": "conflict",
+      "note": "inherit",
+      "particle": "inherit",
+      "track": "darkvs",
+      "accent": "inherit",
+      "singleLine": "none"
+    }
+  },
+  "vs_light": "base_light",
+  "vulcanus": "base_light",
+  "wacca_boss": "base_conflict",
+  "wacca_conflict": "base_conflict",
+  "wacca_light": "base_light",
+  "yugamu": "base_conflict",
+  "zettai": "base_conflict",
+  "zettai_light": "base_light"
+}
