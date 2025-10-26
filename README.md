@@ -4,7 +4,7 @@
 <sub>*a packager of songs awaits you in a free world of arc and create*</sub>
 
 ### Packs songs in a certain folder structure into an ArcCreate package.
-## [Download v1.0](https://github.com/msta3t/pkgaea/releases/latest)
+## [Download v1.0](https://github.com/msta3t/pkgaea/releases/download/1.0.0/pkgaea.zip)
 
 ## Usage
 1. Extract contents of pkgaea.zip 
@@ -17,3 +17,4 @@
 Included in the utilities folder are helper scripts for updating pkgaea
 - listBg.py - reads song list and pack.json and writes a new pack.json with new backgrounds highlighted.
 - cc.py - Grabs chart constants from the wiki and writes them into cc.json.
+
