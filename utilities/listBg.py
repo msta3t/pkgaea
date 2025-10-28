@@ -17,7 +17,7 @@ bgTypes = set()
 with open(songlist, encoding="utf8") as f:  
     songlist = json.load(f)['songs']
 
-with open("skin.json", encoding="utf8") as f:
+with open("../skin.json", encoding="utf8") as f:
     skinlist = json.load(f)
 
 for song in songlist:
