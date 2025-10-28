@@ -180,7 +180,7 @@ for song in songlist:
                     if isinstance(value, str): # found reference to other skin
                         return resolve(value)
                     return None
-                skin_data = resolve(bg)
+                skin_data:dict = resolve(bg)
                 # fallback logic
                 if not skin_data:
                     logging.warning(f"Skin data for bg {bg} not found in skin.json!")
@@ -270,7 +270,7 @@ for song in songlist:
                             raise KeyError
                         return cc
                     except KeyError:
-                        print(f"!!! KEY ERROR ON AISLE: MY {id} !!!")
+                        logging.warning("Chart constant for song %s difficulty %s not found!", id, ratingclass)
                         return diff.get('rating')
 
             projformatted = (
